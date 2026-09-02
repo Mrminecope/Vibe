@@ -1,4 +1,4 @@
-# Vibe 5.0 — YouTube Music Edition
+# Vibe 5.0 — Music Player
 
 A sleek, privacy-focused, ad-free Linux desktop music player whose **only music provider is YouTube / YouTube Music**.
 
