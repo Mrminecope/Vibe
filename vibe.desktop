@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Vibe
+Comment=Private, ad-free YouTube Music player
+Exec=sh -c 'cd "$(dirname "$(readlink -f %k)")" && ./run.sh'
+Icon=audio-x-generic
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+StartupNotify=true
